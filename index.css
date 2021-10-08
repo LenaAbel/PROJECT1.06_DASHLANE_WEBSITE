@@ -1,9 +1,9 @@
 @font-face {
 	font-family: 'Campton-Bold-DEMO';
-	src:url('Campton-Bold-DEMO.ttf.woff') format('woff'),
-		url('Campton-Bold-DEMO.ttf.svg#Campton-Bold-DEMO') format('svg'),
-		url('Campton-Bold-DEMO.ttf.eot'),
-		url('Campton-Bold-DEMO.ttf.eot?#iefix') format('embedded-opentype'); 
+	src:url('res/font/Campton-Bold-DEMO.ttf.woff') format('woff'),
+		url('res/font/Campton-Bold-DEMO.ttf.svg#Campton-Bold-DEMO') format('svg'),
+		url('res/font/Campton-Bold-DEMO.ttf.eot'),
+		url('res/font/Campton-Bold-DEMO.ttf.eot?#iefix') format('embedded-opentype'); 
 	font-weight: normal;
 	font-style: normal;
 }
@@ -11,7 +11,7 @@
 body{
 	margin-right: 50px;
 	margin-left: 50px;
-	font-family:Noto Sans, sans-serif ;
+	font-family:Campton-Bold-DEMO ;
 }
 .flex {
 	display: flex;
