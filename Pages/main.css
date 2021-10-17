@@ -1,0 +1,32 @@
+@font-face {
+	font-family: "altone";
+	src: url('../res/AltoneTrial-Regular.ttf');
+}
+
+td{
+	font-family: "altone";
+}
+
+h1{
+	font-family: "altone";
+	font-weight: bold;
+	margin: 5% 0 5% 0;
+	text-decoration: underline;
+}
+a{
+	color: white;
+}
+.lignesEspacees{
+	border-collapse : separate;
+	border-spacing : 30px;
+}
+
+.bg{
+	background-color: #304c4c;
+}
+.bg1{
+	background-color: #78877f;
+}
+.bg2{
+	background-color:#5e6c61;
+}
