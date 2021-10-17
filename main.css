@@ -16,11 +16,16 @@ h1{
 a{
 	color: white;
 }
+img{
+	border-radius: 10px;
+}
 .lignesEspacees{
 	border-collapse : separate;
 	border-spacing : 30px;
 }
-
+video{
+	border-radius: 10px;
+}
 .bg{
 	background-color: #304c4c;
 }
