@@ -35,3 +35,6 @@ video{
 .bg2{
 	background-color:#5e6c61;
 }
+nav, h2, ul, ul li{ display: inline;}
+nav > h2{ font-size: 1em; } 
+ul { padding-left: 0em; }
