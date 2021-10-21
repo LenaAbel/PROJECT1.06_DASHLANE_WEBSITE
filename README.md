@@ -13,7 +13,7 @@ développement et l'édition de logiciel et d'application en ligne sur smartphon
 tablette ou ordinateur. 
 
   Nous avons choisi **DASHLANE** car nous connaissions cette entreprise et sa gestion des mots de passe.
-  
+
   ### Choix du zoning du site web
   
    * Pour le choix du zoning, nous nous sommes concerté ensemble afin de créer un prototype et de s'en inspirer pour la suite.
