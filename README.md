@@ -14,13 +14,13 @@ tablette ou ordinateur.
 
   Nous avons choisi **DASHLANE** car nous connaissions cette entreprise et sa gestion des mots de passe.
   
-  #### Choix du zoning du site web
+  ### Choix du zoning du site web
   
    * Pour le choix du zoning, nous nous sommes concerté ensemble afin de créer un prototype et de s'en inspirer pour la suite.
   
   ![alt text](res/zoning1.jpg?raw=true "Zoning du site")
   
-  #### Mise en place du zoning
+  ### Mise en place du zoning
 
   ![alt text](res/screenpage1.PNG?raw=true "Screen page 1")
   
