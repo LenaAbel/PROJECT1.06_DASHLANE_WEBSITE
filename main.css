@@ -3,6 +3,10 @@
 	src: url('res/AltoneTrial-Regular.ttf');
 }
 
+body{
+	background-color: #d1d1d1;
+}
+
 td{
 	font-family: "altone";
 }
