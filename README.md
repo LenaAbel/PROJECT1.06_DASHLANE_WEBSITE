@@ -14,7 +14,7 @@ tablette ou ordinateur.
   
   #### Choix du zoning du site web
   
-  ![alt text](res/zoning.jpg?raw=true "Zoning du site")
+  ![alt text](res/zoning1.jpg?raw=true "Zoning du site")
 
 
 
