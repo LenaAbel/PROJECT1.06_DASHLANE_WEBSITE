@@ -20,8 +20,8 @@ tablette ou ordinateur.
   
   #### Mise en place du zoning
 
-  ![alt text](res/screenpage1.jpg?raw=true "Zoning du site")
+  ![alt text](res/screenpage1.PNG?raw=true "Zoning du site")
   
-  ![alt text](res/screenpage2.jpg?raw=true "Zoning du site")
+  ![alt text](res/screenpage2.PNG?raw=true "Zoning du site")
 
 
