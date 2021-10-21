@@ -5,7 +5,7 @@ Bonjour!
   
 Bienvenue sur notre *README* où nous allons vous présenter nos choix sur le site web que nous devions créer. Ce projet a été dirigé par ABEL Léna, FERRY Lucas, DUBOL Lucas et DUPUY Samson.
 
-  ![alt text](res/dashlanelogo.png?raw=true "Logo Dashlane")
+  ![alt text](res/dashlanelogorogné.png?raw=true "Logo Dashlane")
 
 *  [DASHLANE](https://www.dashlane.com/) est une start-up française créée en 2009 par Guillaume Maron.
 L’entreprise est implantée à PARIS et est spécialisée dans le domaine du
