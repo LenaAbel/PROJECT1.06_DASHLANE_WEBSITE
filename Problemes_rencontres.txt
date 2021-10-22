@@ -1,3 +1,3 @@
 Nous avons, lors de la correction de bug du site, rencontré quelques problèmes dont on ne voyait vraiment pas la source, donc on a dû mettre du temps avec les profs pour résoudre ces problèmes.
-Ce qui fait que nous n'avons pas eu le temps de débugger tout le site mais seulement 2 pages(Introduction et fiche signalétique), il est prévu de finir de débugger le site dans le week-end.
+Ce qui fait que nous n'avons pas eu le temps de débugger tout le site mais seulement 4 pages(Introduction, fiche signalétique,chiffres clés et le tutoriel), il est prévu de finir de débugger le site dans le week-end.
 Merci de votre compréhension.
