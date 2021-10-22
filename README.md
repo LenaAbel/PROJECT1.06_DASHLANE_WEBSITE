@@ -24,6 +24,10 @@ tablette ou ordinateur.
 
   ![alt text](res/screenpage1.PNG?raw=true "Screen page 1")
   
-  ![alt text](res/screenpage2.PNG?raw=true "<screen page 2")
+  ![alt text](res/screenpage2.PNG?raw=true "Screen page 2")
 
+  ***Le site s'adapte également sur un téléphone.***
+     ![alt text](res/screentel.JPG?raw=true "Screen page sur téléphone")
+  
+    
 
